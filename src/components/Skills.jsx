@@ -9,7 +9,7 @@ const Skills = () => {
         AOS.init()
     }, [])
     return( 
-        <div style={{background:'#272824', color: '#fff'}}>
+        <div style={{background:'rgba(151, 152, 153)', color: '#000'}}>
             <Container>
                 <Row>
                     <Col>

@@ -34,7 +34,7 @@ const Heading = () => {
                 </Row>
                 <Row>
                     <Col style={{textAlign: 'center', marginTop: '40px'}}>
-                      <a style={{color: '#fff'}} href='#section2'> <FontAwesomeIcon data-aos='zoom-out-up' data-aos-easing='ease-in-out-back' data-aos-duration="2000" icon={faAngleDown}  style={{ padding: '5px', width: '50px', height: '50px', border: '1px solid #fff', borderRadius: '40px'}}/></a> 
+                    <a style={{color: '#fff'}} href='#section2'> <FontAwesomeIcon data-aos='zoom-out-up' data-aos-easing='ease-in-out-back' data-aos-duration="2000" icon={faAngleDown}  style={{ padding: '5px', width: '50px', height: '50px', border: '1px solid #fff', borderRadius: '40px'}}/></a>
                     </Col>
                 </Row>
             </Container>
