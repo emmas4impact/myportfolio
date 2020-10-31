@@ -15,7 +15,7 @@ const Portfolio = () => {
                         <img alt="portfolio" src='tack.png' style={{width: '50px'}} className='tack'/>
                         <Card.Body>LINKEDIN CLONE</Card.Body>
                         <Card.Footer style={{ display: 'flex', justifyContent: 'space-around', color: '#495058'}}>
-                            <a href='https://github.com/emmas4impact/Backend-Linkedln'><FontAwesomeIcon icon={faGithub} style={{color: '#495058'}}/></a>
+                            <a href='https://github.com/emmas4impact/BuildWeek-2'><FontAwesomeIcon icon={faGithub} style={{color: '#495058'}}/></a>
                             <a href='/'><FontAwesomeIcon icon={faLaptopCode} style={{color: '#495058'}}/></a>
                         </Card.Footer>
                     </Card>
@@ -27,7 +27,7 @@ const Portfolio = () => {
 
                         <Card.Body>AMAZON CRUDS BACKEND</Card.Body>
                         <Card.Footer  style={{ display: 'flex', justifyContent: 'space-around', color: '#495058'}}>
-                            <a href='/'><FontAwesomeIcon icon={faGithub} style={{color: '#495058'}}/></a>
+                            <a href='https://github.com/emmas4impact/bechmark-AmazonPI-MongoDB'><FontAwesomeIcon icon={faGithub} style={{color: '#495058'}}/></a>
                             <a href='/'><FontAwesomeIcon icon={faLaptopCode} style={{color: '#495058'}}/></a>
                         </Card.Footer>
                     </Card>
@@ -39,7 +39,7 @@ const Portfolio = () => {
 
                         <Card.Body>NETFLIX CLONE</Card.Body>
                         <Card.Footer style={{display: 'flex', justifyContent: 'space-around', color: '#495058'}}>
-                            <a href='/'><FontAwesomeIcon icon={faGithub} style={{color: '#495058'}}/></a>
+                            <a href='https://github.com/emmas4impact/Benchmark-2'><FontAwesomeIcon icon={faGithub} style={{color: '#495058'}}/></a>
                             <a href='https://rawcdn.githack.com/emmas4impact/Benchmark-2/643a5f9c208b2041599ebb6b51582161ac3fece6/index.html'><FontAwesomeIcon icon={faLaptopCode} style={{color: '#495058'}}/></a>
                         </Card.Footer>
                     </Card>
@@ -54,7 +54,8 @@ const Portfolio = () => {
 
                         <Card.Body>Real Estate Project</Card.Body>
                         <Card.Footer style={{display: 'flex', justifyContent: 'space-around', color: '#495058'}}>
-                            <a href='/'><FontAwesomeIcon icon={faGithub} style={{color: '#495058'}}/></a>
+                            <a href='https://github.com/emmas4impact/Capstone-FE'><FontAwesomeIcon icon={faGithub} style={{color: '#495058'}}/></a>
+                            <a href='https://github.com/emmas4impact/Realestate-backend'><FontAwesomeIcon icon={faGithub} style={{color: '#495058'}}/></a>
                             <a href='https://bridge-estate.herokuapp.com/properties'><FontAwesomeIcon icon={faLaptopCode} style={{color: '#495058'}}/></a>
                         </Card.Footer>
                     </Card>

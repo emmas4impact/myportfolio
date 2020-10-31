@@ -21,6 +21,7 @@ body {
   width: 70px;
 }
 .img-skills {
+  background-color: white;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
