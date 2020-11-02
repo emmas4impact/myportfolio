@@ -6,16 +6,18 @@ import { faAngleDown } from '@fortawesome/free-solid-svg-icons'
 import Typist from 'react-typist';
 import AOS from "aos";
 import "aos/dist/aos.css"
-
 const Heading = () => {
     useEffect(() => {
         AOS.init();
     }, [])
+    const ref = React.createRef();
+      const handleClick = () =>
+        ref.current.scrollIntoView({
+          behavior: 'smooth',
+          block: 'start',
+        });
     return(
-     
         <div className='head'>
-           
-
             <Container className='blurNone'>
                 <Row style={{paddingTop: '50px'}}>
                       <Typist cursor={{ show: false }}><Col><h5 style={{letterSpacing: '1px'}}>Emmanuel Adedeji</h5></Col>
@@ -23,12 +25,10 @@ const Heading = () => {
                 </Row>
                 <Row style={{textAlign:'center', marginTop:  '80px'}}>
                     <Col>  
-                    
                     <h1 data-aos='fade-down' data-aos-duration="3000" className='fontHead'>Not Your</h1>
                     <h1  data-aos='fade-down' data-aos-duration="2000" className='fontHead'>Average</h1>
                     <h1  data-aos='fade-up' data-aos-duration="2000" className='fontHead'>Full Stack</h1>
                     <h1  data-aos='fade-up' data-aos-duration="3000" className='fontHead'>Web Developer</h1> 
-                 
                     <h4 style={{letterSpacing: '3px', marginTop: '20px'}}>Get ready to turn your <i>ideas</i> into <i>reality</i></h4>
                 </Col>
                 </Row>
@@ -38,12 +38,7 @@ const Heading = () => {
                     </Col>
                 </Row>
             </Container>
-        
         </div>
-        
-      
-      
     )
 }
-
 export default Heading;
