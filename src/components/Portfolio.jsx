@@ -16,7 +16,7 @@ const Portfolio = () => {
                         <Card.Body>LINKEDIN CLONE</Card.Body>
                         <Card.Footer style={{ display: 'flex', justifyContent: 'space-around', color: '#495058'}}>
                             <a href='https://github.com/emmas4impact/BuildWeek-2'><FontAwesomeIcon icon={faGithub} style={{color: '#495058'}}/></a>
-                            <a href='/'><FontAwesomeIcon icon={faLaptopCode} style={{color: '#495058'}}/></a>
+                            {/* <a href='/'><FontAwesomeIcon icon={faLaptopCode} style={{color: '#495058'}}/></a> */}
                         </Card.Footer>
                     </Card>
                    </Col>
@@ -28,7 +28,7 @@ const Portfolio = () => {
                         <Card.Body>AMAZON CRUDS BACKEND</Card.Body>
                         <Card.Footer  style={{ display: 'flex', justifyContent: 'space-around', color: '#495058'}}>
                             <a href='https://github.com/emmas4impact/bechmark-AmazonPI-MongoDB'><FontAwesomeIcon icon={faGithub} style={{color: '#495058'}}/></a>
-                            <a href='/'><FontAwesomeIcon icon={faLaptopCode} style={{color: '#495058'}}/></a>
+                            {/* <a href='/'><FontAwesomeIcon icon={faLaptopCode} style={{color: '#495058'}}/></a> */}
                         </Card.Footer>
                     </Card>
                    </Col>
@@ -56,7 +56,7 @@ const Portfolio = () => {
                         <Card.Footer style={{display: 'flex', justifyContent: 'space-around', color: '#495058'}}>
                             <a href='https://github.com/emmas4impact/Capstone-FE'><FontAwesomeIcon icon={faGithub} style={{color: '#495058'}}/></a>
                             <a href='https://github.com/emmas4impact/Realestate-backend'><FontAwesomeIcon icon={faGithub} style={{color: '#495058'}}/></a>
-                            <a href='https://bridge-estate.herokuapp.com/properties'><FontAwesomeIcon icon={faLaptopCode} style={{color: '#495058'}}/></a>
+                            <a href='https://realestate-front.herokuapp.com/properties'><FontAwesomeIcon icon={faLaptopCode} style={{color: '#495058'}}/></a>
                         </Card.Footer>
                     </Card>
                 </Col>
