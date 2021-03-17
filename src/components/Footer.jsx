@@ -72,7 +72,7 @@ const Footer = () => {
             name="description"
             content="Contact Information"
           />
-          <title>Emmanuel Adedeji Contact</title>
+          <title>Emmanuel Adedeji</title>
           <link rel="canonical" href="https://fawtech.org/" />
         </Helmet>
       </Container>
