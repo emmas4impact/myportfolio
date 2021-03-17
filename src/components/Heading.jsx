@@ -10,12 +10,12 @@ const Heading = () => {
     useEffect(() => {
         AOS.init();
     }, [])
-    const ref = React.createRef();
-      const handleClick = () =>
-        ref.current.scrollIntoView({
-          behavior: 'smooth',
-          block: 'start',
-        });
+    //const ref = React.createRef();
+    //   const handleClick = () =>
+    //     ref.current.scrollIntoView({
+    //       behavior: 'smooth',
+    //       block: 'start',
+    //     });
     return(
         <div className='head'>
             <Container className='blurNone'>
