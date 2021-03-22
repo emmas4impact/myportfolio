@@ -55,7 +55,7 @@ const About = () => {
             }}
           >
             <h4>
-              Hi. I'm Emmanuel Adedeji, Test Analyst and Web Developer
+              Hi, I'm Emmanuel Adedeji, Automation Tester and Fullstack Web Developer
               professional. Nice to meet you.
             </h4>
             <h6>
@@ -82,9 +82,9 @@ const About = () => {
           </Col>
         </Row>
         <Helmet>
-          <meta charSet="utf-8" name="description" content="Hi. I'm Emmanuel Adedeji, Test Analyst and Web Developer
+          <meta charSet="utf-8" name="description" content="Hi, Automation Tester and Fullstack Web Developer
               professional. Nice to meet you."/>
-          <title>I'm Emmanuel Adedeji</title>
+          <title>Emmanuel Adedeji Fullstack developer</title>
           <link rel="canonical" href="https://fawtech.org/" />
         </Helmet>
       </Container>

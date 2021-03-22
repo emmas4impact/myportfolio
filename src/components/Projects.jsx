@@ -38,10 +38,10 @@ const Projects = () => {
             charSet="utf-8"
             name="description"
             content=" I have completed over 50 full stack
-            projects using React.js, Java, JS, PostgreSQL, MongoDB, Node.js,
-            Express.js, Heroku, Git, Github, HTML, CSS, Webpack"
+            projects using React.js, Java, Javascript, SEO, PostgreSQL, MongoDB, Node.js,
+            Express.js, Heroku, Jenkins, GIT, Github, HTML, CSS, Webpack"
           />
-          <title>Emmanuel Adedeji Portfolio</title>
+          <title>MERN STACK PROJECT</title>
           <link rel="canonical" href="https://fawtech.org/" />
         </Helmet>
       </Container>

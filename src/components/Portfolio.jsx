@@ -223,10 +223,10 @@ const Portfolio = () => {
           <meta
             charSet="utf-8"
             name="description"
-            content="Hi. I'm Emmanuel Adedeji, Test Analyst and Web Developer
-              professional. Nice to meet you."
+            content="Automation Tester and Fullstack Web Developer
+            professional"
           />
-          <title>Emmanuel Adedeji Portfolio</title>
+          <title>Fullstack Projects</title>
           <link rel="canonical" href="https://fawtech.org/" />
         </Helmet>
       </Container>
