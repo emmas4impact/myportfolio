@@ -226,7 +226,7 @@ const Portfolio = () => {
             content="Automation Tester and Fullstack Web Developer
             professional"
           />
-          <title>Fullstack Projects</title>
+          <title>Emmanuel Adedeji Fullstack Projects</title>
           <link rel="canonical" href="https://fawtech.org/" />
         </Helmet>
       </Container>
