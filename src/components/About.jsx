@@ -66,7 +66,7 @@ const About = () => {
               to my organizational and intercommunication skills I will
               definetly be a valuable team player.
             </h6>
-            <a href="https://drive.google.com/file/d/1L5a5oNT7Ph-CFE0K4vq9sk1JfEgxrkEU/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1pK8Js1p0jbKN6H1EvitnsKbRUHgQK9kX/view?usp=sharing">
               <img
                 alt="about"
                 className="cv"
