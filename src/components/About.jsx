@@ -66,7 +66,7 @@ const About = () => {
               to my organizational and intercommunication skills I will
               definetly be a valuable team player.
             </h6>
-            <a href="https://drive.google.com/file/d/1cL__2H9-1ByKHT1HJngL-sXFX6CMevH1/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1L5a5oNT7Ph-CFE0K4vq9sk1JfEgxrkEU/view?usp=sharing">
               <img
                 alt="about"
                 className="cv"
@@ -82,9 +82,9 @@ const About = () => {
           </Col>
         </Row>
         <Helmet>
-          <meta charSet="utf-8" name="description" content="Hi, Automation Tester and Fullstack Web Developer
+          <meta charSet="utf-8" name="description" content="Hi, I'm Emmanuel Adedeji an Automation Tester and Fullstack Web Developer
               professional. Nice to meet you."/>
-          <title>Emmanuel Adedeji Fullstack developer</title>
+          <title>Emmanuel Adedeji, Fullstack developer</title>
           <link rel="canonical" href="https://fawtech.org/" />
         </Helmet>
       </Container>

@@ -37,8 +37,8 @@ const Projects = () => {
           <meta
             charSet="utf-8"
             name="description"
-            content=" I have completed over 50 full stack
-            projects using React.js, Java, Javascript, SEO, PostgreSQL, MongoDB, Node.js,
+            content="Emmanuel Adedeji have completed over 50 full stack
+            projects using React.js, Java, Spring Boot, Javascript, SEO, PostgreSQL, MongoDB, Node.js,
             Express.js, Heroku, Jenkins, GIT, Github, HTML, CSS, Webpack"
           />
           <title>MERN STACK PROJECT</title>
